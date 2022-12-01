@@ -11,5 +11,8 @@
     "asincronismo"
   ],
   "author": "Eduardo Díaz",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
 }
